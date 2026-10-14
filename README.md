@@ -14,4 +14,4 @@ tests/: verificaciones manuales.
 Abrir src/main.py en VS Code y usar Run Python File.
 
 ## Resultado esperado
-Total de ventas: 4500
+Total de ventas: 5500

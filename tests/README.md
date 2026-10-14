@@ -7,3 +7,11 @@ Resultado esperado: Total de ventas: 4500.
 
 Comparar con el calculo manual:
 2 * 1000 + 3 * 500 + 1 * 1000 = 4500.
+
+## Caso actualizado
+Cambiar la cantidad de cuadernos de 2 a 3.
+Ejecutar src/main.py.
+Resultado esperado: Total de ventas: 5500.
+
+Para repetir el caso inicial, usar cantidad 2 y esperar 4500.
+Restaurar cantidad 3 al terminar la comprobacion.
